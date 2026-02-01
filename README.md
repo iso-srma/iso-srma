@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishwor Sharma</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-- 🌱 I’m currently learning **React Js ,Next Js**
+- 🌱 I’m currently learning **React Js ,Nodejs,Express js,Mongodb**
 
 - 👨‍💻 All of my projects are available at [sharmaishwor.com.np](sharmaishwor.com.np)
 
